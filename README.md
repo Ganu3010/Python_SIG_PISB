@@ -3,4 +3,3 @@
 ## NumPy and Pandas
 - You can find all the jupyter notebooks used in class in this repository.
 - CSV files relevant to the exercises are also stored in this repository.
-- All exercises are to be solved and pushed to your own branches.
